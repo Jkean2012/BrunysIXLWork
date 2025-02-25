@@ -398,3 +398,4 @@ document.getElementById('import-theme').addEventListener('click', function() {
 
     input.click();
 });
+

@@ -498,7 +498,7 @@ h1 {
 	border-radius: 8px;
 }
 
-.button-home, .button-discord {
+.button-home, .button-discord, .button-bruny {
 	background-color: #141414;
 	border: none;
 	color: #fff;
@@ -508,7 +508,7 @@ h1 {
 	display: inline-block;
 	font-size: 16px;
 	margin: 4px 2px;
-	transition: background-color 0.3s, transform 0.2s;
+	transition: background-color 0.3s, color 0.3s, transform 0.2s;
 	cursor: pointer;
 	border-radius: 8px;
 }
@@ -521,6 +521,12 @@ h1 {
 .button-discord:hover {
 	background-color: #5865F2;
 	transform: scale(1.05);
+}
+
+.button-bruny:hover {
+	background-color: #e8f258;
+	transform: scale(1.05);
+	color: #000;
 }
 
 a {
