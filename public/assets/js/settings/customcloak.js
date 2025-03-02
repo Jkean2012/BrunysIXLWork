@@ -1,21 +1,18 @@
-// favicon.js
 function setCustomSettings(faviconUrl, newTitle) {
     if (faviconUrl && newTitle) {
-        // Ensure the favicon URL is correctly set
         document.querySelector('link[rel="icon"]').href = getRelativeUrl(faviconUrl);
-        localStorage.setItem('selectedFavicon', getRelativeUrl(faviconUrl));
+        setCookie('selectedFavicon', getRelativeUrl(faviconUrl), 30);
         document.title = newTitle;
-        localStorage.setItem('customTitle', newTitle);
+        setCookie('customTitle', newTitle, 30);
     } else {
         var customFaviconUrl = document.getElementById('faviconUrl').value;
         var customTitle = document.getElementById('websiteTitle').value;
 
         if (customFaviconUrl && customTitle) {
-            // Ensure the favicon URL is correctly set
             document.querySelector('link[rel="icon"]').href = getRelativeUrl(customFaviconUrl);
-            localStorage.setItem('selectedFavicon', getRelativeUrl(customFaviconUrl));
+            setCookie('selectedFavicon', getRelativeUrl(customFaviconUrl), 30);
             document.title = customTitle;
-            localStorage.setItem('customTitle', customTitle);
+            setCookie('customTitle', customTitle, 30);
             document.getElementById('faviconUrl').value = '';
             document.getElementById('websiteTitle').value = '';
         }
@@ -23,23 +20,20 @@ function setCustomSettings(faviconUrl, newTitle) {
 }
 
 function resetSettings() {
-    // Clear localStorage values
-    localStorage.removeItem('selectedFavicon');
-    localStorage.removeItem('customTitle');
-    
-    // Remove the favicon link element completely
+    deleteCookie('selectedFavicon');
+    deleteCookie('customTitle');
+
     const faviconElement = document.querySelector('link[rel="icon"]');
     if (faviconElement) {
         faviconElement.parentNode.removeChild(faviconElement);
     }
     
-    // Reset the title to the default browser behavior
-    document.title = ''; // An empty string lets the browser handle the default behavior
+    document.title = '';
 }
 
 function loadSettings() {
-    var selectedFavicon = localStorage.getItem('selectedFavicon');
-    var customTitle = localStorage.getItem('customTitle');
+    var selectedFavicon = getCookie('selectedFavicon');
+    var customTitle = getCookie('customTitle');
     if (selectedFavicon) {
         document.querySelector('link[rel="icon"]').href = selectedFavicon;
     }
@@ -50,10 +44,29 @@ function loadSettings() {
 
 window.onload = loadSettings;
 
-// Helper function to get the correct relative URL
 function getRelativeUrl(url) {
-    // Create an anchor element to resolve the relative path
     var a = document.createElement('a');
     a.href = url;
     return a.href;
+}
+
+function getCookie(name) {
+    const cookieArr = document.cookie.split("; ");
+    for (let i = 0; i < cookieArr.length; i++) {
+        const cookiePair = cookieArr[i].split("=");
+        if (cookiePair[0] === name) {
+            return decodeURIComponent(cookiePair[1]);
+        }
+    }
+    return null;
+}
+
+function setCookie(name, value, days) {
+    const date = new Date();
+    date.setTime(date.getTime() + days * 24 * 60 * 60 * 1000);
+    document.cookie = `${name}=${encodeURIComponent(value)}; expires=${date.toUTCString()}; path=/`;
+}
+
+function deleteCookie(name) {
+    document.cookie = `${name}=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;`;
 }
