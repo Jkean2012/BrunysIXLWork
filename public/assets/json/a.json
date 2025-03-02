@@ -1,0 +1,122 @@
+[
+    {
+      "name": "30 Dollar Website",
+      "imgpath": "/assets/apps/30dollarwebsite/assets/🗿.png",
+      "link": "/assets/apps/30dollarwebsite/"
+    },
+    {
+      "name": "Emulator.JS",
+      "imgpath": "/assets/apps/emulatorjs/docs/Logo.png",
+      "link": "/assets/apps/emulatorjs/"
+    },
+    {
+      "name": "Ruffle",
+      "imgpath": "/assets/apps/ruffle/ruffle.png",
+      "link": "/assets/apps/ruffle/"
+    },
+    {
+      "name": "Sound Board",
+      "imgpath": "/assets/apps/soundboard/img/mlg-favicon.png",
+      "link": "/assets/apps/soundboard/"
+    },
+    {
+      "name": "Web Retro",
+      "imgpath": "/assets/apps/webretro/webretro.png",
+      "link": "/assets/apps/webretro/"
+    },
+    {
+      "name": "Windows 11",
+      "imgpath": "/assets/apps/windows11/favicon.png",
+      "link": "/assets/apps/windows11/"
+    },
+    {
+      "name": "Android",
+      "imgpath": "/assets/apps/android/android.jpg",
+      "link": "/assets/apps/android/"
+    },
+    {
+      "name": "Aptoid",
+      "imgpath": "/assets/apps/aptoid/IMG_5343.png",
+      "link": "/assets/apps/aptoid/"
+    },
+    {
+      "name": "ChatGPT",
+      "imgpath": "/assets/apps/chatgpt/IMG_5328.jpeg",
+      "link": "/assets/apps/chatgpt/"
+    },
+    {
+      "name": "Cloud Gaming",
+      "imgpath": "/assets/apps/cloudgaming/cg.png",
+      "link": "/assets/apps/cloudgaming/"
+    },
+    {
+      "name": "Cool Math Games",
+      "imgpath": "/assets/apps/coolmathgames/IMG_5329.png",
+      "link": "/assets/apps/coolmathgames/"
+    },
+    {
+      "name": "Crazy Games",
+      "imgpath": "/assets/apps/crazygames/IMG_5330.webp",
+      "link": "/assets/apps/crazygames/"
+    },
+    {
+      "name": "Discord",
+      "imgpath": "/assets/apps/discord/IMG_5331.jpeg",
+      "link": "/assets/apps/discord/"
+    },
+    {
+      "name": "Facebook",
+      "imgpath": "/assets/apps/facebook/IMG_5332.jpeg",
+      "link": "/assets/apps/facebook/"
+    },
+    {
+      "name": "GeForce Now",
+      "imgpath": "/assets/apps/geforcenow/g.webp",
+      "link": "/assets/apps/geforcenow/"
+    },
+    {
+      "name": "Google",
+      "imgpath": "/assets/apps/google/IMG_5324.webp",
+      "link": "/assets/apps/google/"
+    },
+    {
+      "name": "Now.GG",
+      "imgpath": "/assets/apps/nowgg/IMG_5325.png",
+      "link": "/assets/apps/nowgg/"
+    },
+    {
+      "name": "Reddit",
+      "imgpath": "/assets/apps/reddit/IMG_5326.jpeg",
+      "link": "/assets/apps/reddit/"
+    },
+    {
+      "name": "Snap Chat",
+      "imgpath": "/assets/apps/snapchat/IMG_5334.png",
+      "link": "/assets/apps/snapchat/"
+    },
+    {
+      "name": "TikTok",
+      "imgpath": "/assets/apps/tiktok/IMG_5335.png",
+      "link": "/assets/apps/tiktok/"
+    },
+    {
+      "name": "Twitch",
+      "imgpath": "/assets/apps/twitch/IMG_5336.png",
+      "link": "/assets/apps/twitch/"
+    },
+    {
+      "name": "X",
+      "imgpath": "/assets/apps/x/IMG_5337.png",
+      "link": "/assets/apps/x/"
+    },
+    {
+      "name": "Xbox",
+      "imgpath": "/assets/apps/xbox/IMG_5327.png",
+      "link": "/assets/apps/xbox/"
+    },
+    {
+      "name": "YouTube",
+      "imgpath": "/assets/apps/youtube/IMG_5338.webp",
+      "link": "/assets/apps/youtube/"
+    }
+]

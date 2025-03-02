@@ -1,0 +1,947 @@
+[
+    {
+      "name": "1v1.lol",
+      "imgpath": "/assets/games/1v1lol/splash.png",
+      "link": "/assets/games/1v1lol/"
+    },
+    {
+      "name": "2048",
+      "imgpath": "/assets/games/2048/meta/apple-touch-icon.png",
+      "link": "/assets/games/2048/"
+    },
+    {
+      "name": "Moto X3M 2",
+      "imgpath": "/assets/games/2-x3m/2.jpeg",
+      "link": "/assets/games/2-x3m/"
+    },
+    {
+      "name": "3D Noob Destroyer",
+      "imgpath": "/assets/games/3dnoobdestroyer/3d-noob-destroyer.jpg",
+      "link": "/assets/games/3dnoobdestroyer/"
+    },
+    {
+      "name": "3D Noob Destroyer",
+      "imgpath": "/assets/games/3dnoobdestroyer/3d-noob-destroyer.jpg",
+      "link": "/assets/games/3dnoobdestroyer/"
+    },
+    {
+      "name": "Moto X3M Winter",
+      "imgpath": "/assets/games/4-winter/w.jpeg",
+      "link": "/assets/games/4-winter/"
+    },
+    {
+      "name": "Moto X3M Pool Party",
+      "imgpath": "/assets/games/5-pool-party/pp.jpeg",
+      "link": "/assets/games/5-pool-party/"
+    },
+    {
+      "name": "Moto X3M Spooky Land",
+      "imgpath": "/assets/games/6-spooky-land/s.jpeg",
+      "link": "/assets/games/6-spooky-land/"
+    },
+    {
+      "name": "8 Ball",
+      "imgpath": "/assets/games/8ball/iconnew.jpg",
+      "link": "/assets/games/8ball/game.html"
+    },
+    {
+      "name": "10 Minutes Till Dawn",
+      "imgpath": "/assets/games/10-minutes-till-dawn/splash.png",
+      "link": "/assets/games/10-minutes-till-dawn/"
+    },
+    {
+      "name": "A Dark Room",
+      "imgpath": "/assets/games/adarkroom/download.png",
+      "link": "/assets/games/adarkroom/"
+    },
+    {
+      "name": "Adofai",
+      "imgpath": "/assets/games/adofai/splash.png",
+      "link": "/assets/games/adofai/"
+    },
+    {
+      "name": "Age Of War",
+      "imgpath": "/assets/games/age-of-war/icon.jpg",
+      "link": "/assets/games/age-of-war/"
+    },
+    {
+      "name": "Alien Hominid",
+      "imgpath": "/assets/games/alienhominid/niggersinfected.webp",
+      "link": "/assets/games/alienhominid/"
+    },
+    {
+      "name": "Amazing Strange Rope Police",
+      "imgpath": "/assets/games/amazing-rope-police/splash.jpeg",
+      "link": "/assets/games/amazing-rope-police/"
+    },
+    {
+      "name": "Among Us",
+      "imgpath": "/assets/games/amongus/IMG_5257.jpeg",
+      "link": "/assets/games/amongus/"
+    },
+    {
+      "name": "Angry Sharks",
+      "imgpath": "/assets/games/angry-sharks/assets/img/splash.png",
+      "link": "/assets/games/angry-sharks/"
+    },
+    {
+      "name": "Angry Birds",
+      "imgpath": "/assets/games/angrybirds/ab.jpg",
+      "link": "/assets/games/angrybirds/"
+    },
+    {
+      "name": "A Small World Cup",
+      "imgpath": "/assets/games/asmallworldcup/icon-256.png",
+      "link": "/assets/games/asmallworldcup/"
+    },
+    {
+      "name": "Astray",
+      "imgpath": "/assets/games/astray/astray.jpeg",
+      "link": "/assets/games/astray/"
+    },
+    {
+      "name": "Awesome Tanks 2",
+      "imgpath": "/assets/games/awesometanks2/IMG_5282.png",
+      "link": "/assets/games/awesometanks2/"
+    },
+    {
+      "name": "Back Rooms",
+      "imgpath": "/assets/games/backrooms/img/splash.jpg",
+      "link": "/assets/games/backrooms/"
+    },
+    {
+      "name": "Bacon May Die",
+      "imgpath": "/assets/games/bacon-may-die/splash.png",
+      "link": "/assets/games/bacon-may-die/"
+    },
+    {
+      "name": "Bad Ice Cream",
+      "imgpath": "/assets/games/bad-ice-cream/bad-ice-cream.png",
+      "link": "/assets/games/bad-ice-cream/"
+    },
+    {
+      "name": "Bad Ice Cream 2",
+      "imgpath": "/assets/games/bad-ice-cream-2/bad-ice-cream-2.png",
+      "link": "/assets/games/bad-ice-cream-2/"
+    },
+    {
+      "name": "Bad Ice Cream 3",
+      "imgpath": "/assets/games/bad-ice-cream-3/bad-ice-cream-3.png",
+      "link": "/assets/games/bad-ice-cream-3/"
+    },
+    {
+      "name": "Bad Time Simulator",
+      "imgpath": "/assets/games/badtimesimulator/icon-128.png",
+      "link": "/assets/games/badtimesimulator/"
+    },
+    {
+      "name": "Baldis Basics",
+      "imgpath": "/assets/games/baldis-basics/splash.png",
+      "link": "/assets/games/baldis-basics/"
+    },
+    {
+      "name": "Basketball Stars",
+      "imgpath": "/assets/games/basketball-stars/assets/images/basketball-stars.png",
+      "link": "/assets/games/basketball-stars/"
+    },
+    {
+      "name": "Basket Ball Random",
+      "imgpath": "/assets/games/basketballrandom/download.jpg",
+      "link": "/assets/games/basketballrandom/"
+    },
+    {
+      "name": "Bitlife",
+      "imgpath": "/assets/games/bitlife/bitlife.png",
+      "link": "/assets/games/bitlife/"
+    },
+    {
+      "name": "Block Blast",
+      "imgpath": "/assets/games/blockblast/download.jpeg",
+      "link": "/assets/games/blockblast/"
+    },
+    {
+      "name": "Block Post",
+      "imgpath": "/assets/games/blockpost/thumb.png",
+      "link": "/assets/games/blockpost/"
+    },
+    {
+      "name": "Blocky Snakes",
+      "imgpath": "/assets/games/blocky-snakes/icon.png",
+      "link": "/assets/games/blocky-snakes/"
+    },
+    {
+      "name": "BTD",
+      "imgpath": "/assets/games/bloonstd/bloonstd.jpg",
+      "link": "/assets/games/bloonstd/"
+    },
+    {
+      "name": "BTD 2",
+      "imgpath": "/assets/games/bloonstd2/bloonstd2.png",
+      "link": "/assets/games/bloonstd2/"
+    },
+    {
+      "name": "BTD 3",
+      "imgpath": "/assets/games/bloonstd3/IMG_5313.jpeg",
+      "link": "/assets/games/bloonstd3/"
+    },
+    {
+      "name": "BTD 4",
+      "imgpath": "/assets/games/bloonstd4/IMG_5314.jpeg",
+      "link": "/assets/games/bloonstd4/"
+    },
+    {
+      "name": "Bloxorz",
+      "imgpath": "/assets/games/bloxorz/bloxorz.webp",
+      "link": "/assets/games/bloxorz/"
+    },
+    {
+      "name": "Bounce Back",
+      "imgpath": "/assets/games/bounceback/screenshot.png",
+      "link": "/assets/games/bounceback/"
+    },
+    {
+      "name": "Boxing Random",
+      "imgpath": "/assets/games/boxing-random/512x340.jpg",
+      "link": "/assets/games/boxing-random/"
+    },
+    {
+      "name": "Breaking The Bank",
+      "imgpath": "/assets/games/breakingthebank/breakingthebank.png",
+      "link": "/assets/games/breakingthebank/"
+    },
+    {
+      "name": "Burger And Frights",
+      "imgpath": "/assets/games/burger-and-frights/baf.png",
+      "link": "/assets/games/burger-and-frights/"
+    },
+    {
+      "name": "Cluster Rush",
+      "imgpath": "/assets/games/clusterrush/cluster-rush1.jpg",
+      "link": "/assets/games/clusterrush/"
+    },
+    {
+      "name": "Cookie Clicker",
+      "imgpath": "/assets/games/cookieclicker/splash.png",
+      "link": "/assets/games/cookieclicker/"
+    },
+    {
+      "name": "Core Ball",
+      "imgpath": "/assets/games/core-ball/coreball.png",
+      "link": "/assets/games/core-ball/"
+    },
+    {
+      "name": "Creative Kill Chamber",
+      "imgpath": "/assets/games/creativekillchamber/creativekillchamber.jpg",
+      "link": "/assets/games/creativekillchamber/"
+    },
+    {
+      "name": "Cut The Rope",
+      "imgpath": "/assets/games/cuttherope/icon.png",
+      "link": "/assets/games/cuttherope/"
+    },
+    {
+      "name": "Deepest Sword",
+      "imgpath": "/assets/games/deepest-sword/deepestsword.png",
+      "link": "/assets/games/deepest-sword/"
+    },
+    {
+      "name": "Doge Miner",
+      "imgpath": "/assets/games/DogeMiner/img/dogecoin-d.png",
+      "link": "/assets/games/DogeMiner/"
+    },
+    {
+      "name": "Dread Head Parkour",
+      "imgpath": "/assets/games/dreadheadparkour/dhp.webp",
+      "link": "/assets/games/dreadheadparkour/"
+    },
+    {
+      "name": "Drift Boss",
+      "imgpath": "/assets/games/driftboss/db.jpeg",
+      "link": "/assets/games/driftboss/"
+    },
+    {
+      "name": "Drive Mad",
+      "imgpath": "/assets/games/drive-mad/logo.jpg",
+      "link": "/assets/games/drive-mad/"
+    },
+    {
+      "name": "Ducklife",
+      "imgpath": "/assets/games/ducklife/IMG_5307.png",
+      "link": "/assets/games/ducklife/"
+    },
+    {
+      "name": "Ducklife 2",
+      "imgpath": "/assets/games/ducklife2/IMG_5308.png",
+      "link": "/assets/games/ducklife2/"
+    },
+    {
+      "name": "Ducklife 3",
+      "imgpath": "/assets/games/ducklife3/IMG_5309.png",
+      "link": "/assets/games/ducklife3/"
+    },
+    {
+      "name": "Ducklife 4",
+      "imgpath": "/assets/games/ducklife4/IMG_5310.png",
+      "link": "/assets/games/ducklife4/"
+    },
+    {
+      "name": "Eaglercraft",
+      "imgpath": "/assets/games/eaglercraft/buddyholly.jpg",
+      "link": "/assets/games/eaglercraft/"
+    },
+    {
+      "name": "Eaglercraft Mobile",
+      "imgpath": "/assets/games/eaglercraftmobile/Screenshot 2024-12-13 160700.png",
+      "link": "/assets/games/eaglercraftmobile/EaglercraftX_1.8_u35_Offline_Signed.html"
+    },
+    {
+      "name": "Eggy Car",
+      "imgpath": "/assets/games/eggycar/eggy-car.png",
+      "link": "/assets/games/eggycar/"
+    },
+    {
+      "name": "Escaping The Prison",
+      "imgpath": "/assets/games/escapingtheprison/escapingtheprison.jpg",
+      "link": "/assets/games/escapingtheprison/"
+    },
+    {
+      "name": "Fireboy & Watergirl Forest Temple",
+      "imgpath": "/assets/games/fireboywatergirlforesttemple/logo.jpeg",
+      "link": "/assets/games/adofai/"
+    },
+    {
+      "name": "Flappy Bird",
+      "imgpath": "/assets/games/flappy-bird/assets/thumb.png",
+      "link": "/assets/games/flappy-bird/"
+    },
+    {
+      "name": "Fleeing The Complex",
+      "imgpath": "/assets/games/fleeingthecomplex/fleeingthecomplex.jpg",
+      "link": "/assets/games/fleeingthecomplex/"
+    },
+    {
+      "name": "Five Nights At Winstons",
+      "imgpath": "/assets/games/fnaw/five-nights-at-winston-s.jpg",
+      "link": "/assets/games/fnaw/"
+    },
+    {
+      "name": "Friday Night Funkin",
+      "imgpath": "/assets/games/fnf/favicon.png",
+      "link": "/assets/games/fnf/"
+    },
+    {
+      "name": "Friday Night Funkin Mid Fight Masses",
+      "imgpath": "/assets/games/fnfmidfightmasses/fnfmidfightmasses.jpeg",
+      "link": "/assets/games/fnfmidfightmasses/"
+    },
+    {
+      "name": "Geometry Dash Lite",
+      "imgpath": "/assets/games/gd/logo.png",
+      "link": "/assets/games/gd/"
+    },
+    {
+      "name": "Geometry Dash (Scratch)",
+      "imgpath": "/assets/games/geometrydash/splash.png",
+      "link": "/assets/games/geometrydash/"
+    },
+    {
+      "name": "Geometry Dash Melt Down",
+      "imgpath": "/assets/games/geometrydashmeltdown/gdmd.png",
+      "link": "/assets/games/geometrydashmeltdown/"
+    },
+    {
+      "name": "Geometry Dash Sub Zero",
+      "imgpath": "/assets/games/geometrydashsubzero/gdsz.png",
+      "link": "/assets/games/geometrydashsubzero/"
+    },
+    {
+      "name": "Geometry Dash World",
+      "imgpath": "/assets/games/geometrydashworld/gdw.png",
+      "link": "/assets/games/geometrydashworld/"
+    },
+    {
+      "name": "Getting Over It",
+      "imgpath": "/assets/games/gettingoverit/389464290_480x360.png",
+      "link": "/assets/games/gettingoverit/"
+    },
+    {
+      "name": "Google Snake",
+      "imgpath": "/assets/games/google-snake/img/snake.png",
+      "link": "/assets/games/google-snake/"
+    },
+    {
+      "name": "Gravity Soccer",
+      "imgpath": "/assets/games/gravity-soccer/splash.png",
+      "link": "/assets/games/gravity-soccer/"
+    },
+    {
+      "name": "Gun Mayhem",
+      "imgpath": "/assets/games/guymayhem/icon.png",
+      "link": "/assets/games/guymayhem/"
+    },
+    {
+      "name": "Gun Mayehm 2",
+      "imgpath": "/assets/games/gunmayhem2/gh2.webp",
+      "link": "/assets/games/gunmayhem2/"
+    },
+    {
+      "name": "Gun Mayhem Redux",
+      "imgpath": "/assets/games/gunmayhemredux/gunmayhemredux.jpeg",
+      "link": "/assets/games/gunmayhemredux/"
+    },
+    {
+      "name": "Happy Wheels",
+      "imgpath": "/assets/games/happywheels/hw.jpg",
+      "link": "/assets/games/happywheels/"
+    },
+    {
+      "name": "Helix jump",
+      "imgpath": "/assets/games/helixjump/gameIcon.png",
+      "link": "/assets/games/helixjump/"
+    },
+    {
+      "name": "HTML5b",
+      "imgpath": "/assets/games/html5b/images.jpeg",
+      "link": "/assets/games/html5b/"
+    },
+    {
+      "name": "Impossible Quiz",
+      "imgpath": "/assets/games/impossiblequiz/imp.png",
+      "link": "/assets/games/impossiblequiz/"
+    },
+    {
+      "name": "Impossible Quiz 2",
+      "imgpath": "/assets/games/impossiblequiz2/imp2.jpeg",
+      "link": "/assets/games/impossiblequiz2/"
+    },
+    {
+      "name": "Infiltrating The Air Ship",
+      "imgpath": "/assets/games/infiltraitingtheairship/infiltratingtheairship.jpg",
+      "link": "/assets/games/infiltraitingtheairship/"
+    },
+    {
+      "name": "Interactive Buddy",
+      "imgpath": "/assets/games/interactivebuddy/IMG_5311.jpeg",
+      "link": "/assets/games/interactivebuddy/"
+    },
+    {
+      "name": "Jetpack Joyride",
+      "imgpath": "/assets/games/jetpackjoyride/jj.jpeg",
+      "link": "/assets/games/jetpackjoyride/"
+    },
+    {
+      "name": "Just Fall",
+      "imgpath": "/assets/games/just-fall/splash.jpg",
+      "link": "/assets/games/just-fall/"
+    },
+    {
+      "name": "Learn To Fly",
+      "imgpath": "/assets/games/learntofly/icon.png",
+      "link": "/assets/games/learntofly/"
+    },
+    {
+      "name": "Learn To Fly 2",
+      "imgpath": "/assets/games/learntofly 2/IMG_5305.jpeg",
+      "link": "/assets/games/learntofly 2/"
+    },
+    {
+      "name": "Learn To Fly 3",
+      "imgpath": "/assets/games/learntofly3/IMG_5306.jpeg",
+      "link": "/assets/games/learntofly3/"
+    },
+    {
+      "name": "Little Alchemy",
+      "imgpath": "/assets/games/littlealchemy/image_2024-08-30_152806221.png",
+      "link": "/assets/games/littlealchemy/"
+    },
+    {
+      "name": "Little Alchemy 2",
+      "imgpath": "/assets/games/littlealchemy2/a2.png",
+      "link": "/assets/games/littlealchemy2/"
+    },
+    {
+      "name": "Madness Accelerant",
+      "imgpath": "/assets/games/ma/IMG_5320.jpeg",
+      "link": "/assets/games/ma/"
+    },
+    {
+      "name": "Monkey Mart",
+      "imgpath": "/assets/games/monkeymart/mm.jpeg",
+      "link": "/assets/games/monkeymart/"
+    },
+    {
+      "name": "Moto X3M",
+      "imgpath": "/assets/games/motox3m/moto-x3m.png",
+      "link": "/assets/games/motox3m/"
+    },
+    {
+      "name": "Mr Bullet",
+      "imgpath": "/assets/games/mrbullet/icon-256.png",
+      "link": "/assets/games/mrbullet/"
+    },
+    {
+      "name": "Noob Steve Parkour",
+      "imgpath": "/assets/games/noob-steve-parkour/512x340.jpg",
+      "link": "/assets/games/noob-steve-parkour/"
+    },
+    {
+      "name": "Nazi Zombies Portable",
+      "imgpath": "/assets/games/nzp/IMG_5251.jpeg",
+      "link": "/assets/games/nzp/"
+    },
+    {
+      "name": "OVO",
+      "imgpath": "/assets/games/ovo/ovo.png",
+      "link": "/assets/games/ovo/"
+    },
+    {
+      "name": "Papa Louie",
+      "imgpath": "/assets/games/papalouie/papalouie.jpeg",
+      "link": "/assets/games/papalouie/"
+    },
+    {
+      "name": "Papa Louie 2",
+      "imgpath": "/assets/games/papalouie2/papalouie2.jpeg",
+      "link": "/assets/games/papalouie2/"
+    },
+    {
+      "name": "Papa Louie 3",
+      "imgpath": "/assets/games/papalouie3/papalouie3.jpeg",
+      "link": "/assets/games/papalouie3/"
+    },
+    {
+      "name": "Papas Pizzaria",
+      "imgpath": "/assets/games/papaspizzaria/papaspizzaria.jpg",
+      "link": "/assets/games/papaspizzaria/"
+    },
+    {
+      "name": "Papas Burgeria",
+      "imgpath": "/assets/games/papasburgeria/splash.jpg",
+      "link": "/assets/games/papasburgeria/"
+    },
+    {
+      "name": "Paper IO 2",
+      "imgpath": "/assets/games/paperio2/images/icon192.png",
+      "link": "/assets/games/paperio2/"
+    },
+    {
+      "name": "Paper Minecraft",
+      "imgpath": "/assets/games/paperminecraft/IMG_5319.jpeg",
+      "link": "/assets/games/paperminecraft/"
+    },
+    {
+      "name": "Poly Track",
+      "imgpath": "/assets/games/polytrack/polytrack.jpeg",
+      "link": "/assets/games/polytrack/"
+    },
+    {
+      "name": "Portal",
+      "imgpath": "/assets/games/portals/portal/portal.jpeg",
+      "link": "/assets/games/portals/portal/"
+    },
+    {
+      "name": "Portal 2",
+      "imgpath": "/assets/games/portals/portal2/portal2.png",
+      "link": "/assets/games/portals/portal2/"
+    },
+    {
+      "name": "Precision Client",
+      "imgpath": "/assets/games/precisionclient/logo.png",
+      "link": "/assets/games/precisionclient/"
+    },
+    {
+      "name": "Plants Vs Zombies",
+      "imgpath": "/assets/games/pvz/download.jpeg",
+      "link": "/assets/games/pvz/"
+    },
+    {
+      "name": "Quake",
+      "imgpath": "/assets/games/quake/splash.jpeg",
+      "link": "/assets/games/quake/"
+    },
+    {
+      "name": "Raft Wars",
+      "imgpath": "/assets/games/raftwars/raftwars.jpeg",
+      "link": "/assets/games/raftwars/"
+    },
+    {
+      "name": "Raft Wars 3",
+      "imgpath": "/assets/games/raftwars2/raftwars2.jpeg",
+      "link": "/assets/games/ovo/"
+    },
+    {
+      "name": "Retro Bowl",
+      "imgpath": "/assets/games/retro-bowl/img/icon.jpg",
+      "link": "/assets/games/retro-bowl/"
+    },
+    {
+      "name": "Retro Bowl College",
+      "imgpath": "/assets/games/rbcollege/unnamed.png",
+      "link": "/assets/games/rbcollege/"
+    },
+    {
+      "name": "Red Ball",
+      "imgpath": "/assets/games/redball/IMG_5315.jpeg",
+      "link": "/assets/games/redball/1.html"
+    },
+    {
+      "name": "Red Ball Vol 2",
+      "imgpath": "/assets/games/redball/IMG_5316.webp",
+      "link": "/assets/games/redball/2.html"
+    },
+    {
+      "name": "Red Ball Vol 3",
+      "imgpath": "/assets/games/redball/IMG_5317.webp",
+      "link": "/assets/games/ovo/3.html"
+    },
+    {
+      "name": "Riddle School",
+      "imgpath": "/assets/games/riddleschool/IMG_5260.png",
+      "link": "/assets/games/riddleschool/riddleschool1/"
+    },
+    {
+      "name": "Riddle School 2",
+      "imgpath": "/assets/games/riddleschool/IMG_5261.png",
+      "link": "/assets/games/riddleschool/riddleschool2/"
+    },
+    {
+      "name": "Riddle School 3",
+      "imgpath": "/assets/games/riddleschool/IMG_5262.png",
+      "link": "/assets/games/riddleschool/riddleschool3/"
+    },
+    {
+      "name": "Riddle School 4",
+      "imgpath": "/assets/games/riddleschool/IMG_5263.png",
+      "link": "/assets/games/riddleschool/riddleschool4/"
+    },
+    {
+      "name": "Riddle School 5",
+      "imgpath": "/assets/games/riddleschool/IMG_5264.png",
+      "link": "/assets/games/riddleschool/riddleschool5/"
+    },
+    {
+      "name": "Riddle Transfer",
+      "imgpath": "/assets/games/riddleschool/IMG_5265.png",
+      "link": "/assets/games/riddleschool/riddletransfer/"
+    },
+    {
+      "name": "Riddle Transfer 2",
+      "imgpath": "/assets/games/riddleschool/IMG_5266.png",
+      "link": "/assets/games/riddleschool/riddletransfer2/"
+    },
+    {
+      "name": "Rocket League",
+      "imgpath": "/assets/games/rocketleague/rl.jpeg",
+      "link": "/assets/games/rocketleague/"
+    },
+    {
+      "name": "Run 3",
+      "imgpath": "/assets/games/run3/run3.png",
+      "link": "/assets/games/run3/"
+    },
+    {
+      "name": "Run 3 Space",
+      "imgpath": "/assets/games/run3space/run3space.webp",
+      "link": "/assets/games/run3space/"
+    },
+    {
+      "name": "Skibidi 1 V 100",
+      "imgpath": "/assets/games/skibidi1v100/logo.png",
+      "link": "/assets/games/skibidi1v100/"
+    },
+    {
+      "name": "Slope",
+      "imgpath": "/assets/games/slope/IMG_5256.jpeg",
+      "link": "/assets/games/slope/"
+    },
+    {
+      "name": "Slope 2",
+      "imgpath": "/assets/games/slope2/splash.png",
+      "link": "/assets/games/slope2/"
+    },
+    {
+      "name": "Slow Roads",
+      "imgpath": "/assets/games/slowroads/splash.jpeg",
+      "link": "/assets/games/slowroads/"
+    },
+    {
+      "name": "Snow Rider 3D",
+      "imgpath": "/assets/games/snowrider3d/snow-rider-3d.png",
+      "link": "/assets/games/snowrider3d/"
+    },
+    {
+      "name": "Soccer Skills",
+      "imgpath": "/assets/games/soccerskills/splash.png",
+      "link": "/assets/games/soccerskills/"
+    },
+    {
+      "name": "Stealing The Diamond",
+      "imgpath": "/assets/games/stealingthediamond/stealingthediamond.jpg",
+      "link": "/assets/games/stealingthediamond/"
+    },
+    {
+      "name": "Stick Merge",
+      "imgpath": "/assets/games/stick-merge/splash.png",
+      "link": "/assets/games/stick-merge/"
+    },
+    {
+      "name": "Stick Merge 2",
+      "imgpath": "/assets/games/stickmerge2/stickmerge2.jpeg",
+      "link": "/assets/games/stickmerge2/"
+    },
+    {
+      "name": "Stick Man Hook",
+      "imgpath": "/assets/games/stickmanhook/icon.jpg",
+      "link": "/assets/games/stickmanhook/"
+    },
+    {
+      "name": "Subway Surfers",
+      "imgpath": "/assets/games/subwaysurfers/ss.webp",
+      "link": "/assets/games/subwaysurfers/"
+    },
+    {
+      "name": "Super Mario 64",
+      "imgpath": "/assets/games/supermario64/logo.png",
+      "link": "/assets/games/supermario64/"
+    },
+    {
+      "name": "Super Meat Boy",
+      "imgpath": "/assets/games/supermeatboy/IMG_5378.jpeg",
+      "link": "/assets/games/supermeatboy/"
+    },
+    {
+      "name": "Temple Run 2",
+      "imgpath": "/assets/games/templerun2/templerun2.jpeg",
+      "link": "/assets/games/templerun2/"
+    },
+    {
+      "name": "The Binding Of Isaac",
+      "imgpath": "/assets/games/thebindingofisaac/tboi.webp",
+      "link": "/assets/games/thebindingofisaac/"
+    },
+    {
+      "name": "Tiny Fishing",
+      "imgpath": "/assets/games/tinyfishing/thumb.png",
+      "link": "/assets/games/tinyfishing/"
+    },
+    {
+      "name": "Tomb Of The Mask",
+      "imgpath": "/assets/games/totm/splash.webp",
+      "link": "/assets/games/totm/"
+    },
+    {
+      "name": "Tunnel Rush",
+      "imgpath": "/assets/games/tunnelrush/download.jpg",
+      "link": "/assets/games/tunnelrush/"
+    },
+    {
+      "name": "Tunnel Rush 2",
+      "imgpath": "/assets/games/tunnelrush2/tunnelrush2.jpeg",
+      "link": "/assets/games/tunnelrush2/"
+    },
+    {
+      "name": "Vex",
+      "imgpath": "/assets/games/vex/vex.jpg",
+      "link": "/assets/games/vex/"
+    },
+    {
+      "name": "Vex 2",
+      "imgpath": "/assets/games/vex2/vex2.jpg",
+      "link": "/assets/games/vex2/"
+    },
+    {
+      "name": "Vex 3",
+      "imgpath": "/assets/games/vex3/vex3.png",
+      "link": "/assets/games/vex3/"
+    },
+    {
+      "name": "Vex 4",
+      "imgpath": "/assets/games/vex4/vex4.png",
+      "link": "/assets/games/vex4/"
+    },
+    {
+      "name": "Vex 5",
+      "imgpath": "/assets/games/vex5/vex.jpeg",
+      "link": "/assets/games/vex5/"
+    },
+    {
+      "name": "Vex 6",
+      "imgpath": "/assets/games/vex6/assets/icon.jpeg",
+      "link": "/assets/games/vex6/"
+    },
+    {
+      "name": "Vex 7",
+      "imgpath": "/assets/games/vex7/assets/icon.jpeg",
+      "link": "/assets/games/vex7/"
+    },
+    {
+      "name": "Vex 8",
+      "imgpath": "/assets/games/vex8/assets/icon.jpeg",
+      "link": "/assets/games/vex8/"
+    },
+    {
+      "name": "Volley Random",
+      "imgpath": "/assets/games/volley-random/splash.png",
+      "link": "/assets/games/volley-random/"
+    },
+    {
+      "name": "Wordle Unlimited",
+      "imgpath": "/assets/games/wordleunlimited/wordle.png",
+      "link": "/assets/games/wordleunlimited/"
+    },
+    {
+      "name": "YoHoHo",
+      "imgpath": "/assets/games/yohoho/yohoho.png",
+      "link": "/assets/games/yohoho/"
+    },
+    {
+      "name": "Ultimate Custom Night",
+      "imgpath": "/assets/games/ucn/logo.webp",
+      "link": "/assets/games/ucn/"
+    },
+    {
+      "name": "Pizza Simulator",
+      "imgpath": "/assets/games/ps/ps.jpeg",
+      "link": "/assets/games/ps/"
+    },
+    {
+      "name": "Five Nights At Freddy's World",
+      "imgpath": "/assets/games/w/w.jpeg",
+      "link": "/assets/games/w/"
+    },
+    {
+      "name": "Five Nights At Freddy's",
+      "imgpath": "/assets/games/1/f1.jpg",
+      "link": "/assets/games/1/"
+    },
+    {
+      "name": "Five Nights At Freddy's 2",
+      "imgpath": "/assets/games/2/f2.jpg",
+      "link": "/assets/games/2/"
+    },
+    {
+      "name": "Five Nights At Freddy's 3",
+      "imgpath": "/assets/games/3/f3.jpg",
+      "link": "/assets/games/3/"
+    },
+    {
+      "name": "Five Nights At Freddy's 4",
+      "imgpath": "/assets/games/4/f4.jpg",
+      "link": "/assets/games/4/"
+    },
+    {
+      "name": "Sister Location",
+      "imgpath": "/assets/games/sisterlocation/s.jpeg",
+      "link": "/assets/games/sisterlocation/"
+    },
+    {
+      "name": "Five Nights At Freddy's Shooter",
+      "imgpath": "/assets/games/fnafshooter/fnafshooter.jpeg",
+      "link": "/assets/games/fnafshooter/"
+    },
+    {
+      "name": "Bubble Shooter",
+      "imgpath": "/assets/games/bub/cover.png",
+      "link": "/assets/games/bub/"
+    },
+    {
+      "name": "Bob The Robber 2",
+      "imgpath": "/assets/games/bobtherobber2/splash.jpeg",
+      "link": "/assets/games/bobtherobber2/"
+    },
+    {
+      "name": "Super Hot",
+      "imgpath": "/assets/games/superhot/hot.jpg",
+      "link": "/assets/games/superhot/"
+    },
+    {
+      "name": "You Are Jeff Bezos",
+      "imgpath": "/assets/games/youarejeffbezos/banner.png",
+      "link": "/assets/games/youarejeffbezos/"
+    },
+    {
+      "name": "Rooftop Snipers",
+      "imgpath": "/assets/games/rooftopsnipers/rs.jpeg",
+      "link": "/assets/games/rooftopsnipers/"
+    },
+    {
+      "name": "J-Stris",
+      "imgpath": "/assets/games/jstris/j.png",
+      "link": "/assets/games/jstris/"
+    },
+    {
+      "name": "Russian Car Driver",
+      "imgpath": "/assets/games/russiancardriver/russian-car-driver.webp",
+      "link": "/assets/games/russiancardriver/"
+    },
+    {
+      "name": "Worldle Bot",
+      "imgpath": "/assets/games/wordlebot/icon.png",
+      "link": "/assets/games/wordlebot/"
+    },
+    {
+      "name": "Tube Jumpers",
+      "imgpath": "/assets/games/tube-jumpers/img/icon.jpg",
+      "link": "/assets/games/tube-jumpers/"
+    },
+    {
+      "name": "Sukia Game",
+      "imgpath": "/assets/games/sukiagame/sukia.jpeg",
+      "link": "/assets/games/sukiagame/"
+    },
+    {
+      "name": "Spank the Monkey",
+      "imgpath": "/assets/games/spankthemonkey/cover.svg",
+      "link": "/assets/games/spankthemonkey/"
+    },
+    {
+      "name": "Soccer Random",
+      "imgpath": "/assets/games/soccerrandom/unnamed.png",
+      "link": "/assets/games/soccerrandom/"
+    },
+    {
+      "name": "Dante",
+      "imgpath": "/assets/games/dante/splash.png",
+      "link": "/assets/games/dante/"
+    },
+    {
+      "name": "Death Run 3",
+      "imgpath": "/assets/games/death-run-3d/img/death.png",
+      "link": "/assets/games/death-run-3d/"
+    },
+    {
+      "name": "Dino",
+      "imgpath": "/assets/games/dino/icon.png",
+      "link": "/assets/games/dino/"
+    },
+    {
+      "name": "Doodle Jump",
+      "imgpath": "/assets/games/doodlejump/icon.png",
+      "link": "/assets/games/doodlejump/"
+    },
+    {
+      "name": "Snow Battle",
+      "imgpath": "/assets/games/snowbattle/img/logo.png",
+      "link": "/assets/games/snowbattle/"
+    },
+    {
+      "name": "Stack",
+      "imgpath": "/assets/games/stack/stack.jpeg",
+      "link": "/assets/games/stack/"
+    },
+    {
+      "name": "Solitaire",
+      "imgpath": "/assets/games/solitaire/splashing.png",
+      "link": "/assets/games/solitaire/"
+    },
+    {
+      "name": "Ngon",
+      "imgpath": "/assets/games/ngon/ngon.png",
+      "link": "/assets/games/ngon/"
+    },
+    {
+      "name": "1 on 1 soccer",
+      "imgpath": "/assets/games/1on1soccer/IMG_5318.jpeg",
+      "link": "/assets/games/1on1soccer/"
+    }
+]
