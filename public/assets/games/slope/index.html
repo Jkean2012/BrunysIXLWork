@@ -1,16 +1,6 @@
-<!DOCTYPE html>
-<script>
-  if (window.parent !== window.self) window.parent.postMessage("bonk", "*");
-  window.addEventListener("DOMContentLoaded", function () {
-    document.body.style.margin = "0";
-    document.body.style.height = "100vh";
-    document.body.style.overflow = "hidden";
-  });
-</script>
-<html lang="en-us">
-  <head>
-
-        <!-- Google tag (gtag.js) -->
+<html>
+    <head>
+                        <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-TFZ72L5FPQ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -20,66 +10,29 @@
   gtag('config', 'G-TFZ72L5FPQ');
 </script>
 
+        <title>Slope</title>
 
-    <meta charset="utf-8" />
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Slope</title>
-    <link href="shared/style.css" rel="stylesheet" />
-    <link rel="stylesheet" href="TemplateData56/style.css" />
-    <script src="TemplateData56/UnityProgress.js"></script>
-    <link rel="shortcut icon" href="TemplateData/favicon.ico" />
-    <link rel="icon" href="slope4.jpeg" />
-    <script src="Build/UnityLoader.js"></script>
-    <script>
-      window.rWS = WebSocket;
-      WebSocket = function (url, options) {
-        var split = url.split("://");
-        var prefix = "";
-        if (!url.includes("arc.io")) {
-          switch (split[0].toLowerCase()) {
-            case "ws":
-              prefix = "wss://onebigorange-tmm.tbt.mx/websocket/http://";
-              break;
-            case "wss":
-              prefix = "wss://onebigorange-tmm.tbt.mx/websocket/https://";
-              break;
-            default:
-              prefix = split[0];
-          }
-          return new (Function.prototype.bind.call(window.rWS, null, (split[1].match(/\//g) || []).length === 0 ? (split[1].includes("?") ? prefix + split[1].replace("?", "/?") : prefix + split[1] + "/") : prefix + split[1], options))();
-        } else {
-          return new window.rWS(url, options);
-        }
-      };
-      var origOpen = XMLHttpRequest.prototype.open;
-      XMLHttpRequest.prototype.open = function (...args) {
-        if (!args[1].includes("arc.io")) args[1] = /^http/.test(args[1]) ? "https://onebigstatic-tmm.tbt.mx/static/" + args[1] : args[1];
-        origOpen.apply(this, args);
-      };
-      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/slope_27Sept.json", {
-        onProgress: UnityProgress,
-        Module: {
-          onRuntimeInitialized: function () {
-            UnityProgress(gameInstance, "complete");
-          },
-        },
-      });
-    </script>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-98DP5VKS42"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
-      gtag("config", "G-98DP5VKS42");
-    </script>
-    <script src="shared/lib.js" type="text/javascript"></script>
-    <script src="shared/gamebreak/gamebreak.js" type="text/javascript"></script>
-  </head>
-  <body>
-    <div class="webgl-content">
-      <div id="gameContainer" style="width: 100vw; height: 100vh;"></div>
-    </div>
+        <meta http-equiv="X-Frame-Options" content="deny">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+        <script src="UnityProgress.js"></script>
+        <script src="UnityLoader.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+        <script>
+            var unityInstance = window.unityInstance = UnityLoader.instantiate("gameContainer", "slope_new.json", {onProgress: UnityProgress,Module:{onRuntimeInitialized: function() {UnityProgress(window.unityInstance, "complete")}}});
+        </script>
+        <link rel="shortcut icon" href="../../images/ico.ico" type="image/x-icon">
+        <script src="../../storage/js/cloak.js"></script>
+    </head>
+    <body>
+        <div class="webgl-content">
+            <div id="gameContainer" style="width: 100%; height: 100%; margin: auto;"></div>
+                <div style="position: absolute; bottom: 1vh; left: 1vw;" class="fullscreen" onclick="window.unityInstance.SetFullscreen(1)">
+                  <div class="btn-group" role="group" aria-label="Third group">
+                  
+            </div>
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+        <script src="script.js"></script>
   </body>
 </html>
