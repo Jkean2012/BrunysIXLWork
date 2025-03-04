@@ -15,11 +15,12 @@ app.use(express.static(path.join(__dirname, "public")));
 
 const routes = [
   { path: "/", file: "index.html" },
-  { path: "/g", file: "gms.html" },
-  { path: "/a", file: "aps.html" },
-  { path: "/s", file: "settings.html" },
-  { path: "/p", file: "proxy.html" },
+  { path: "/math", file: "gms.html" },
+  { path: "/reading", file: "aps.html" },
+  { path: "/social-studies", file: "settings.html" },
+  { path: "/spanish", file: "proxy.html" },
   { path: "/404", file: "404.html" },
+  { path: "/science", file: "partners.html" }
 ];
 
 routes.forEach((route) => {
